@@ -5,7 +5,6 @@ import gb from "../assets/bg.jpg";
 import gbb from "../assets/gadobangkong.jpeg";
 import badak from '../assets/badak.jpg'
 import hanoman from '../assets/hanoman3.jpg'
-import bg2 from '../assets/gb.jpg'
 
 const Hero = () => {
   return (
